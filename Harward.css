@@ -1,0 +1,18 @@
+#search{
+    background-color: blue;
+    padding: 30px;
+    border-radius: 10px;
+}
+.container{
+    background-color: powderblue;
+ }   
+
+
+
+.Ginput , .sub {
+    flex-direction: row;
+    border-radius: 5px;
+    height: 22px;
+    width: 130px;
+    margin-left: 900px;
+}
